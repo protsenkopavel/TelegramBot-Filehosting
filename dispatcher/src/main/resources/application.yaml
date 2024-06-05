@@ -1,0 +1,4 @@
+bot:
+  token: ${BOT_TOKEN}
+  username: "@Filehosting"
+  url: "https://931b-185-154-73-126.ngrok-free.app"
